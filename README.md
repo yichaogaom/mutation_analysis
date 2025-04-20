@@ -28,13 +28,7 @@ This project analyzes the biological impact of 49 gene mutations by quantifying 
 - Insertion and deletion mutations in coding regions were most disruptive.
 - Visual patterns supported scoring system logic.
 
-## 🤖 AI Tools Acknowledgement
 
-This project was supported by OpenAI ChatGPT (GPT-4), which assisted with:
-- Code writing and logic clarification
-- Report structure and content suggestions
-
-All interpretations and final outputs were verified and written by the student.
 
 ## 👤 Author
 
